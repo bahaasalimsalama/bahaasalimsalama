@@ -3,7 +3,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/><br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/><br>
 
-##  Bahaa Salim 👨‍💻  
+##  Bahaa Salim | بهاء سليم 👨‍💻  
 💻 Flutter Developer | 🎓 Computer Science Student
 
 ---
@@ -12,9 +12,9 @@
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 ---
 
@@ -22,7 +22,7 @@
 
 - 👨‍🏫 أدرّس البرمجة بلغتي: عربية بسيطة وواضحة  
 - 📱 أبني تطبيقات Flutter بتصميم عصري ونظيف  
-- ⚡ أشرح الكود بأسلوب تفاعلي ممتع على YouTube  
+
 - 🛠️ أشارك مكتبات، مكونات، وأفكار مشاريع مفتوحة المصدر  
 
 ---
